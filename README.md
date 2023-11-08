@@ -41,9 +41,7 @@ The project found that the classifier's accuracy on adversarial images was signi
 
 This project demonstrates the effectiveness of using autoencoders as a defense mechanism against adversarial attacks on machine learning models. By denoising adversarial images, autoencoders significantly enhance the accuracy and robustness of the model. Using two autoencoders in sequence yields the best results, highlighting the potential of this approach to bolster model resilience.
 
-## References
 
-- Include relevant references here.
 
 ## Future Work
 
