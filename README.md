@@ -3,7 +3,7 @@
 
 # Safeguarding Neural Networks: Autoencoders as Defense
 
-![Project Image](insert_image_url_here)
+
 
 ## Overview
 
